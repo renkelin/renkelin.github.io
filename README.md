@@ -1,16 +1,16 @@
 # renkelin.github.io
 중간고사
-git status
-ls
-vi a
-ls - a
-cat a
-git diff
-git commit
-git log
-ls
-cat README.cd
-vi hello.c
+git status  
+ls  
+vi a  
+ls - a  
+cat a  
+git diff  
+git commit  
+git log  
+ls  
+cat README.cd  
+vi hello.c  
 ls -alh
 git add hello.c
 git commit hello.c
