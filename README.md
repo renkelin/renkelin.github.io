@@ -1,6 +1,6 @@
 # renkelin.github.io
 중간고사
-git status
+git status\n
 ls
 vi a
 ls - a
